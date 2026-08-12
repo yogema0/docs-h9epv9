@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-avo593.hartawin.site/sitemap.xml
